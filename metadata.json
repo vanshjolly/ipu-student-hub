@@ -1,0 +1,5 @@
+{
+  "name": "IPU Student Hub",
+  "description": "A comprehensive academic utility website for IPU students featuring attendance and CGPA calculators, PYQs, notes, and a semester planner.",
+  "requestFramePermissions": []
+}
